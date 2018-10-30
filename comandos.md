@@ -8,6 +8,10 @@ Comandos para usar no chat do LiamNask
 
 !volume (número) -> aumenta ou diminui o volume da música (editores)
 
+!song -> mostra a música atual e quem pediu ela
+
+!nextsong -> mostra a próxima música da fila e quem pediu ela
+
 [MINIGAMES]
 
 !arena -> Cria ou entra em uma espécie de Battle Royale (custo 10 miojos, mínimo 3 pessoas, vencedor leva todos os miojos)
@@ -57,6 +61,12 @@ Comandos para usar no chat do LiamNask
 
 !followers -> mostra a quantidade de seguidores que o Liam tem no momento (moderadores)
 
+!leokaos -> contador de quantas vezes o Leokaos ficou de mimimi no chat
+
+!michael -> contador de quantas vezes o MichaelRD usou o comando !desliga na live
+
+!subcount -> mostra o número de subscribers do canal 
+
 [QUOTES]
 
 !quote Add (texto) -> Cria um novo quote (moderadores)
@@ -91,6 +101,9 @@ Comandos para usar no chat do LiamNask
 !sefode (somente subscriber)
 
 !taffarel (somente subscriber) 
+
+!velhop (somente moderador) -> audio para dar as boas vindas ao Velho_P na live
+
 
 [COMANDOS PARA MODERADORES E EDITORES]
 
